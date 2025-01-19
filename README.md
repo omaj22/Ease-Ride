@@ -1,6 +1,6 @@
 # Ease-Ride is a user-friendly web application that allows users to easily rent cars. 
 
-Built with Python Flask, TailwindCSS, and SQLite, the platform provides an intuitive interface for browsing, selecting, and booking rental vehicles. Whether you're looking for a short-term rental or long-term solution, Ease ride makes the process seamless and hassle-free.Features
+Built with Python Flask, HTML, Javascript, TailwindCSS, CSS, and SQLite, the platform provides an intuitive interface for browsing, selecting, and booking rental vehicles. Whether you're looking for a short-term rental or long-term solution, Ease ride makes the process seamless and hassle-free.Features
 
 #Features
 Car Listings: Browse a wide selection of vehicles available for rent.
@@ -10,7 +10,7 @@ Simple User Flow: Streamlined process for quick bookings and simple navigation.
 
 #Technologies Used
 Backend: Python Flask
-Frontend: TailwindCSS
+Frontend: HTML, Javascript, TailwindCSS and CSS
 Database: SQLite
 Version Control: Git
 

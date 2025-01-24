@@ -5,6 +5,7 @@ Built with Python Flask, HTML, Javascript, TailwindCSS, CSS, and SQLite, the pla
 #Features
 Car Listings: Browse a wide selection of vehicles available for rent.
 Booking System: Easily book a car by selecting rental dates and vehicle preferences.
+
 Responsive Design: Optimized for mobile and desktop devices with a modern, clean interface.
 Simple User Flow: Streamlined process for quick bookings and simple navigation.
 
